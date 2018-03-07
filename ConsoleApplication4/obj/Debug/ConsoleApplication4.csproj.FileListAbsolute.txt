@@ -1,0 +1,10 @@
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\bin\Debug\Autofac.dll
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\bin\Debug\ClassLibrary1.dll
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\bin\Debug\ClassLibrary1.pdb
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\bin\Debug\Autofac.xml
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
