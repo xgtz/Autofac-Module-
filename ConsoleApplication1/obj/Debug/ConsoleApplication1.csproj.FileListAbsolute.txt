@@ -1,0 +1,7 @@
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication1\bin\Debug\Autofac.dll
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication1\bin\Debug\Autofac.xml
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
