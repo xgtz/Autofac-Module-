@@ -25,6 +25,10 @@ namespace ConsoleApplication2
             // 也是用来判断命名空间的，这种方式是根据类型来获取命名空间
             //builder.RegisterAssemblyTypes(assembly).InNamespaceOf<Program>();
             builder.RegisterAssemblyTypes(assembly).InNamespaceOf<IocClass1>();
+
+            
+            
+
             using (IContainer container = builder.Build())
             {
                 try
@@ -43,6 +47,14 @@ namespace ConsoleApplication2
                     IocClass1 IocCls1 = container.Resolve<IocClass1>();
                     if (null != IocCls1)
                         IocCls1.Print();
+                }
+                catch { }
+
+                try
+                {
+                    Interface1 ISay = container.Resolve<Interface1>();
+                    if (null != ISay)
+                        ISay.say();
                 }
                 catch { }
 

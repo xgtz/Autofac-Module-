@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,6 +17,8 @@ namespace ConsoleApplication4
             var builder = new ContainerBuilder();
             builder.RegisterType<Class1>();
             //builder.RegisterType(Type.GetType("ClassLibrary1.Blog"));
+
+            
             using (IContainer container = builder.Build())
             {
                 //try

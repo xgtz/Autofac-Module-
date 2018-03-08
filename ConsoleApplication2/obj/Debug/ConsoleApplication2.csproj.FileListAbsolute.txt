@@ -6,3 +6,5 @@ E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication2\bin\Debug\Autofac.
 E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
 E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication2\bin\Debug\ClassLibrary1.dll
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ConsoleApplication2\bin\Debug\ClassLibrary1.pdb

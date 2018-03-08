@@ -47,7 +47,9 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
+    <Compile Include="IocAutofac\Example\Interface1.cs" />
     <Compile Include="IocAutofac\Example\IocClass1.cs" />
+    <Compile Include="IocAutofac\Example\SayClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -59,7 +61,7 @@
     <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
       <Project>{77dad9ee-120f-45d9-bf53-3940099f1ab1}</Project>
       <Name>ClassLibrary1</Name>
-      <Private>False</Private>
+      <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

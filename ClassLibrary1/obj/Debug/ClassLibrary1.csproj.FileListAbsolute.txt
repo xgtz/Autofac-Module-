@@ -2,3 +2,5 @@ E:\MyNetSpace\AutoFac\ConsoleApplication3\ClassLibrary1\bin\Debug\ClassLibrary1.
 E:\MyNetSpace\AutoFac\ConsoleApplication3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
 E:\MyNetSpace\AutoFac\ConsoleApplication3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 E:\MyNetSpace\AutoFac\ConsoleApplication3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ClassLibrary1\bin\Debug\Autofac.dll
+E:\MyNetSpace\AutoFac\ConsoleApplication3\ClassLibrary1\bin\Debug\Autofac.xml
